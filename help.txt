@@ -1,0 +1,16 @@
+Thanks For Downloading My AutoSetup
+For Booting With Termux 
+________________________________
+
+---------------------------------------------------------
+________________________________
+
+	      ( Tutorial )
+Type: perl (yourscriptname) (victims ip) (port) (size) (time)
+Example: perl vape.pl 8.8.8.8 53 65500 500
+You Already Have 3 Scripts Installed
+Trap.pl
+vape.pl
+weed.pl
+
+If You Need Any Help Contact @g9ngsta On Instagram
